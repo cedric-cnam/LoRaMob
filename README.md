@@ -75,7 +75,7 @@ The full dataset is hosted on Nextcloud due to its large size. Download it using
 
 The dataset was generated using:
 - Mobility data from **bike-sharing endpoints and travel times**.
-- Emulation tools like **elora**, a LoRaWAN module for NS-3 designed for massive networks ([elora GitHub Repository](https://github.com/non-det-alle/elora)).
+- Emulation tools like **elora**, a LoRaWAN module for NS-3 designed for massive networks ([elora GitHub Repository](https://github.com/Orange-OpenSource/elora)).
 - Network and application servers implemented using **ChirpStack** ([chirpstack-docker](https://github.com/non-det-alle/chirpstack-docker.git)).
 
 ### Characteristics:
