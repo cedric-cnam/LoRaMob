@@ -4,11 +4,11 @@ This repository contains two datasets collected from emulated LoRaWAN networks: 
 
 The **full dataset** is hosted on **Nextcloud** due to its large size. In this repository, we provide a **3-day example dataset** and **scripts** to process and analyze the data.
 
-## Demo Video
+## 🎬 Demo Video
 
 <a href="https://box.roc.cnam.fr/index.php/s/YHMkGDR8JxQiNj9" style="font-size: 24px; font-weight: bold; color: #007bff;">Click here to view the video.</a>
 
-### Demo Animation
+### 🎞️ Demo Animation
 
 ![Demo Animation](elora-bikes_gif.gif)
 
@@ -44,15 +44,15 @@ The full dataset is hosted on Nextcloud due to its large size. Download it using
 - **11 Days with ADR**:
   - Infrastructure dataset:
     - Monitoring (JSON)
+    - Prometheus (JSON)
   - Network dataset:
-    - Prometheus
     - Application (JSON)
     - Gateway (JSON)
 - **28 Days without ADR**:
   - Infrastructure dataset:
     - Monitoring (JSON)
-  - Network dataset:
     - Prometheus (JSON)
+  - Network dataset:
     - Application (JSON)
     - Gateway (JSON)
 
